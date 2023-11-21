@@ -9,7 +9,11 @@ body {
     width: 70%;
     margin: 20px auto;
 }
-
+img {
+    height: 50px;
+    object-fit: cover;
+    width: 200px;
+}
 h1 {
     text-align:center;
 
